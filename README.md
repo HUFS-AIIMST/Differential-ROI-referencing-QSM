@@ -4,8 +4,7 @@ Submitted to *NMR in Biomedicine*
 ## Data and Processing Resources
 
 This project uses datasets and processing code from the following sources.  
-For access to the datasets and manuscripts used in this study, please contact us at  
-<gwlee1031@hufs.ac.kr>
+For access to the datasets and manuscripts used in this study, please contact us at <gwlee1031@hufs.ac.kr>
 
 ### Digital Phantom
 - **Data**: The Zubal Phantom (MRI Head Phantom)  
